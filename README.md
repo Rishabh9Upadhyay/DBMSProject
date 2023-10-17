@@ -25,4 +25,4 @@ Link for PPT: https://docs.google.com/presentation/d/19JY6UpgOCmlNdJj0EkjIu0R-SM
 
 Link for project report: https://drive.google.com/file/d/1F8D8FQozzFElduynaTONnt1Oxw2fm0RM/view?usp=sharing
 
-Link for demo(video): 
+Link for demo(video): https://drive.google.com/file/d/1qJoVUAUEgdz1pMg5Nwq3PSKwy4HpFf_J/view?usp=sharing
