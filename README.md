@@ -6,9 +6,9 @@ Navigation System
 Simple to order food
 
 # used technologies
-HTML/CSS
-JavaScript
-NodeJs
+HTML/CSS, 
+JavaScript,
+NodeJs, 
 MySQL
 
 
